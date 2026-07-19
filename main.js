@@ -1,4 +1,4 @@
 //Trung Hieu
 
 console.log("Welcome to change");
-console.log("Change04");
+console.log("Change");
